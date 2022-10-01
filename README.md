@@ -68,7 +68,7 @@ In order to properly properly run the App we must follow the following steps.
    
    - Go to the GitHub page. Click on the green Code button and click Download Zip
    
-       ![](https://i.imgur.com/KjRRQPB.jpg)
+       ![]()
     
     - Locate the downloaded Zip file in the appropiate folder then Unzip it. 
     
