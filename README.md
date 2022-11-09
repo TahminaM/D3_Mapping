@@ -1,15 +1,5 @@
 # DOT NYC - Bike Racks Mapping and Dashboard
 
-## Table of Content
-
-1. [Description](#Overview)
-2. [App Evaluation](#Usage)
-3. [Product Specs](#Product-Specs)
-4. [Wireframe](#Wireframes)
-5. [Manual](#Manual)
-6. [Installation](#Installation)
-7. [Code Structure](#Code)
-8. [Technology](#Documentation)
 
 ### Description
 
